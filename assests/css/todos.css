@@ -84,5 +84,9 @@ li:hover span{
 }
 
 h3{
-	float: bottom;
+	
+	
+	position:absolute;
+	top:460px;
+	/*opacity:0.5;*/
 }
